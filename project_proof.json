@@ -1,12 +1,12 @@
 {
-    "timestamp": "2025-11-27T13:00:26.837464",
+    "timestamp": "2025-11-27T13:46:05.381773",
     "project_folder": "C:\\programing\\simon_2025_11_27",
-    "project_folder_hash": "8ecda7949a24ed2ae2c9431f79698c26006c3ea0702ac188905a099e80fbd6f3",
-    "python_executable": "c:\\Users\\simaf\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "project_folder_hash": "0d1aab05a87368fd9757cabe6d5646cc9e00b2930855af1affe1645ab675310c",
+    "python_executable": "C:\\programing\\simon_2025_11_27\\venv\\Scripts\\python.exe",
     "python_version": "3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)]",
     "public_ip": "195.39.44.178",
     "local_ip": "172.16.0.58",
-    "unique_token": "09bfab2c77a243157d9b0c8cb5e722d90f436cea9c152c5eef44fcf883d5e5c6",
+    "unique_token": "6a0cea8fb3b443f21c5c05e38ccf97b42ba999cd3689811ac3f20903037f32c2",
     "system_info": {
         "os": "Windows",
         "os_version": "10.0.26100",
